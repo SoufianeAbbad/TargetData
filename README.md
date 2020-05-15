@@ -1,5 +1,5 @@
 # TargetData
-The repository contains a list of data on assets of bug-bounty programs
+The repository contains a list of crt.sh data on assets of bug-bounty programs
 Credits: [@Nahamsec](https://twitter.com/NahamSec)
 
 Current Programs::
